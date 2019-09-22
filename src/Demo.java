@@ -8,3 +8,8 @@ public class Demo {
 	}
 
 }
+ class Vijay{
+	public void bala() {
+		System.out.println("im bala");
+	}
+}

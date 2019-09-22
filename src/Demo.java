@@ -8,3 +8,14 @@ public class Demo {
 	}
 
 }
+ class Vijay{
+	public void bala() {
+		System.out.println("im bala");
+	}
+}
+ 
+ class Ltocas{
+	 public void demo() {
+		 System.out.println("trail 2");
+	 }
+ }

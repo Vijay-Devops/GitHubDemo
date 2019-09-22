@@ -13,3 +13,9 @@ public class Demo {
 		System.out.println("im bala");
 	}
 }
+ 
+ class Ltocas{
+	 public void demo() {
+		 System.out.println("trail 2");
+	 }
+ }
